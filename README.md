@@ -13,8 +13,8 @@
 - [Desafio 5](https://github.com/Vacacosa123/fdsw-github)
  
  ##Fork
-- Fork a Nicolas Hernandez [Ver](https://github.com/iPolloyo/desafio_4_bootstrap)
-- Fork a Diego Sanhueza [Ver](https://github.com/Diego-sanhueza/cupones)
+- Fork a Nicolas Hernandez (https://github.com/Vacacosa123/desafio-3-Flexbox)
+- Fork a Diego Sanhueza (https://github.com/Vacacosa123/cupones)
 
 ##Commit
 
