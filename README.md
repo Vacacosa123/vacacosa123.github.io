@@ -11,11 +11,10 @@
 - [Desafio 3](https://github.com/Vacacosa123/desafio-3)
 - [Desafio 4](https://github.com/Vacacosa123/desafio-4)
 - [Desafio 5](https://github.com/Vacacosa123/fdsw-github)
-  ##Fork
-- Fork a Víctor Zamorano [Ver](https://github.com/iPolloyo/desafio_4_bootstrap)
-- Fork a Sebastián Gómez [Ver](https://github.com/TheGreySam/prueba-viajes-chile2)
+ 
+ ##Fork
+- Fork a Nicolas Hernandez [Ver](https://github.com/iPolloyo/desafio_4_bootstrap)
+- Fork a Diego Sanhueza [Ver](https://github.com/Diego-sanhueza/cupones)
 
 ##Commit
 
-- Commit en creación de README a (https://github.com/iPolloyo)
-- Commit en creación de README a (https://github.com/TheGreySam)
