@@ -17,4 +17,6 @@
 - Fork a Diego Sanhueza (https://github.com/Vacacosa123/cupones)
 
 ##Commit
+-  a Nicolas Hernandez (https://github.com/Vacacosa123/desafio-3-Flexbox)
+-  a Diego Sanhueza (https://github.com/Vacacosa123/cupones)
 
